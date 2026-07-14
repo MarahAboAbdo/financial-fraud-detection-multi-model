@@ -46,8 +46,8 @@ pip install pandas numpy matplotlib seaborn scikit-learn xgboost joblib
 
 ---
 
-## Student
+## Student Information
 
-Marah Akram Abou Abdo
-Artificial Intelligence and Machine Learning
-July 2026
+**Name:** Marah Akram Abou Abdo  
+**Course:** Contemporary Topics in Artificial Intelligence  
+**Date:** July 2026
